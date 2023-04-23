@@ -8,7 +8,7 @@ Firstly:
   Link: https://www.youtube.com/watch?v=y9CMORCcan0
   
   Screenshot:
-  ![image](https://user-images.githubusercontent.com/46713210/233831797-8d973ffe-2d3a-4ec3-83ac-1e87c72c7c6e.png)
+  \n ![image](https://user-images.githubusercontent.com/46713210/233831797-8d973ffe-2d3a-4ec3-83ac-1e87c72c7c6e.png)
 
 Secondly:
   "President_Erdogan_Speech_Analysis.ipynb" contains the code for word frequency analysis and word cloud generation.
